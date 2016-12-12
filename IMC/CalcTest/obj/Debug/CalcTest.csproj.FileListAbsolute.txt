@@ -1,0 +1,16 @@
+C:\proyectos\ta03\MiniCalc\CalcTest\bin\Debug\CalcTest.dll
+C:\proyectos\ta03\MiniCalc\CalcTest\bin\Debug\CalcTest.pdb
+C:\proyectos\ta03\MiniCalc\CalcTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\proyectos\ta03\MiniCalc\CalcTest\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\proyectos\ta03\MiniCalc\CalcTest\obj\Debug\CalcTest.csprojResolveAssemblyReference.cache
+C:\proyectos\ta03\MiniCalc\CalcTest\obj\Debug\CalcTest.dll
+C:\proyectos\ta03\MiniCalc\CalcTest\obj\Debug\CalcTest.pdb
+C:\proyectos\TA03\MiniCalc\CalcTest\bin\Debug\FrmMiniCalc.exe
+C:\proyectos\TA03\MiniCalc\CalcTest\bin\Debug\FrmMiniCalc.pdb
+D:\Aula\2016-II\Evolución de Software\Examen Final\Pregunta 02\IMC\CalcTest\bin\Debug\CalcTest.dll
+D:\Aula\2016-II\Evolución de Software\Examen Final\Pregunta 02\IMC\CalcTest\bin\Debug\CalcTest.pdb
+D:\Aula\2016-II\Evolución de Software\Examen Final\Pregunta 02\IMC\CalcTest\bin\Debug\FrmMiniCalc.exe
+D:\Aula\2016-II\Evolución de Software\Examen Final\Pregunta 02\IMC\CalcTest\bin\Debug\FrmMiniCalc.pdb
+D:\Aula\2016-II\Evolución de Software\Examen Final\Pregunta 02\IMC\CalcTest\obj\Debug\CalcTest.csprojResolveAssemblyReference.cache
+D:\Aula\2016-II\Evolución de Software\Examen Final\Pregunta 02\IMC\CalcTest\obj\Debug\CalcTest.dll
+D:\Aula\2016-II\Evolución de Software\Examen Final\Pregunta 02\IMC\CalcTest\obj\Debug\CalcTest.pdb
